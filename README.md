@@ -3,10 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinnydevv&label=Profile%20views&color=0e75b6&style=flat" alt="jinnydevv" /> </p>
 
+- 🎨 I'm grown up at Phichit, Thailand.
+- 📚 I'm study at Phichit Pittayakom.
+- 🏆 I'm member of Honix academy
 - 📫 Contact Me **kimrnl.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/14km.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="14km.dev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
